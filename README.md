@@ -1,2 +1,4 @@
 # testRepo7
-zmena v develop JD
+
+VERSION: 0.1
+
